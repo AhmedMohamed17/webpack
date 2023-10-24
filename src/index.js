@@ -2,7 +2,7 @@ import generateJoke from "./generateJoke"
 import "./style/main.scss"
 import laugh from "./assets/laugh.svg"
 
-console.log("77777")
+console.log("777776")
 
 
 const laughImg= document.getElementById("laughImg");
